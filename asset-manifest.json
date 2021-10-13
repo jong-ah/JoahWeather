@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/JoahWeather/static/js/app.e0166fd3.chunk.js",
+    "app.js.map": "/JoahWeather/static/js/app.e0166fd3.chunk.js.map",
+    "runtime~app.js": "/JoahWeather/static/js/runtime~app.3a16d67e.js",
+    "runtime~app.js.map": "/JoahWeather/static/js/runtime~app.3a16d67e.js.map",
+    "static/js/2.5e9ddb52.chunk.js": "/JoahWeather/static/js/2.5e9ddb52.chunk.js",
+    "static/js/2.5e9ddb52.chunk.js.map": "/JoahWeather/static/js/2.5e9ddb52.chunk.js.map",
+    "fonts/AntDesign.ttf": "/JoahWeather/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/JoahWeather/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/JoahWeather/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/JoahWeather/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/JoahWeather/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/JoahWeather/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/JoahWeather/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/JoahWeather/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/JoahWeather/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/JoahWeather/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/JoahWeather/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/JoahWeather/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/JoahWeather/favicon-16.png",
+    "favicon-32.png": "/JoahWeather/favicon-32.png",
+    "favicon.ico": "/JoahWeather/favicon.ico",
+    "index.html": "/JoahWeather/index.html",
+    "manifest.json": "/JoahWeather/manifest.json",
+    "serve.json": "/JoahWeather/serve.json",
+    "static/js/2.5e9ddb52.chunk.js.LICENSE.txt": "/JoahWeather/static/js/2.5e9ddb52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.3a16d67e.js",
+    "static/js/2.5e9ddb52.chunk.js",
+    "static/js/app.e0166fd3.chunk.js"
+  ]
+}
